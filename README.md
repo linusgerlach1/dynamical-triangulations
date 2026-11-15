@@ -1,6 +1,9 @@
-# dyntri
+# dynamical-triangulations
+
+Non-equilibrium sampling of random geometries for gravitational path integrals.
 
 Monte Carlo simulations of causal dynamical triangulations (CDT) for lattice quantum gravity.
+The Python package is called `dyntri`.
 
 ## Development
 
