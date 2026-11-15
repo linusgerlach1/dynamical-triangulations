@@ -20,7 +20,11 @@ wheels/
 *.fdb_latexmk
 *.synctex.gz
 
-# Papers, rendered output and generated plots
-*.pdf
+# Literature, simulation output and generated plots (regenerate from scripts/)
+/papers/
+/results/
+/figures/
 .render/
-/*.png
+
+# Compiled LaTeX (figures in notes/figures/ are tracked)
+notes/*.pdf
