@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+
+# LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Papers, rendered output and generated plots
+*.pdf
+.render/
+/*.png
